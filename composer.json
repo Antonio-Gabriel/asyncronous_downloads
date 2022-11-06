@@ -1,0 +1,11 @@
+{
+    "require": {
+        "clue/buzz-react": "^2.9",
+        "react/filesystem": "^0.1.1"
+    },
+    "config": {
+        "allow-plugins": {
+            "wyrihaximus/composer-update-bin-autoload-path": true
+        }
+    }
+}
